@@ -5,3 +5,6 @@
 En aquesta activitat treballarem sobre la hibridació de:
 
 1: Netflix: 
+
+2: Assassin's Creed
+
