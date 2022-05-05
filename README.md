@@ -1,1 +1,7 @@
-# PAC3_Manovich_Reloaded-
+# CULTURA DIGITAL
+## Baruc Nsue Burcet
+### REPTE-ACTIVITAT 3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació.
+
+
+
+
