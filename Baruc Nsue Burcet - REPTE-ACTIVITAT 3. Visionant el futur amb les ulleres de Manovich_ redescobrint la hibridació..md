@@ -36,6 +36,8 @@ Aquest algoritme ofereix a la companyia la possibilitat de tenir més coneixemen
   
 Aquest programari (*Bigdata*) es basa en l'opinió que fan els usuaris en referència al tipus de gènere què havien vist prèviament i la qualificació que aquest havien donat a les pel·lícules o sèries per poder oferir recomanacions d'acord amb els seus interessos. Aquesta combinació dels elements ajuda a *Netflix* a preveure amb un % més elevat els gustos dels consumidors, fet que els hi ha facilitat poder escollir entre d'altres coses com; actors o actrius, directors, temàtica i un llarg llista de inputs que ajuden alhora d'invertir la companyia per tenir un projecte guanyador.
 
+![bigdata](https://user-images.githubusercontent.com/104514520/167248776-ae5ef726-2407-4100-8fb5-87046a858c49.jpg)
+
 Com veiem, *Netflix* utilitza diferents programaris que han creat un nivell audiovisual diferent al què estava acostumat el consumidor, utilitza internet per oferir el servei, que alhora es pot veure en diferents dispositius (TV, mòbils, PC, tablets, consoles, etc), i a través de *streaming* es poden veure pel·lícules, documentals i una llarga llista.
 
 Com a conclusió, veiem que *Netflix* absorbeix les funcions de la televisió, del cine i dels vídeos fets per la web i tot això a través d'internet.  I com a conseqüència d'aquesta barreja de tècniques, considero que *Netflix* és un bon exemple d'hibridació.
