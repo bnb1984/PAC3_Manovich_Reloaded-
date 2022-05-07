@@ -59,17 +59,17 @@ Com a segon exemple d'hibridació he escollit el videojoc *Assassin's Creed*.
 La llista és
 *Assassin's Creed* no només és un videojoc, també existeixen llibres, novel·les , pel·lícules, curtmetratges de ciència-ficció i historietes. En aquest supòsit escolliré la versió del videojoc. molt llarga, tant de videojocs: 
 
-*Assassin's Creed (2007)
-*Assassin's Creed II (2009)
-*Assassin's Creed: Brotherhood (2010)
-*Assassin's Creed: Revelations (2011)
-*Assassin's Creed III (2012)
-*Assassin's Creed IV: Black Flag (2013)
-*Assassin's Creed: Rogue (2014)
-*Assassin's Creed: Unity (2014)
-*Assassin's Creed: Syndicate (2015)
-*Assassin's Creed: Origins (2017)
-*Assassin's Creed: Odyssey (2018)
+*Assassin's Creed (2007)*
+*Assassin's Creed II (2009)*
+*Assassin's Creed: Brotherhood (2010)*
+*Assassin's Creed: Revelations (2011)*
+*Assassin's Creed III (2012)*
+*Assassin's Creed IV: Black Flag (2013)*
+*Assassin's Creed: Rogue (2014)*
+*Assassin's Creed: Unity (2014)*
+*Assassin's Creed: Syndicate (2015)*
+*Assassin's Creed: Origins (2017)*
+*Assassin's Creed: Odyssey (2018)*
 
 En aquest cas, en tractar-se d'un videojoc segurament és menys conegut que *Netflix*, això no obstant, també és un exemple d'hibridació, ja que utilitza el cine, internet i el videojoc com a diferents tècniques però les utilitza de manera conjunta.
 
