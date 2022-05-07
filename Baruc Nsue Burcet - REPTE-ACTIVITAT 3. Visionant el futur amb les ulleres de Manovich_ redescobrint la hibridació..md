@@ -70,6 +70,7 @@ La llista és
 - *Assassin's Creed: Syndicate (2015)*
 - *Assassin's Creed: Origins (2017)*
 - *Assassin's Creed: Odyssey (2018)*
+- *Assassin's Creed: Valhalla (2020*
 
 En aquest cas, en tractar-se d'un videojoc segurament és menys conegut que *Netflix*, això no obstant, també és un exemple d'hibridació, ja que utilitza el cine, internet i el videojoc com a diferents tècniques però les utilitza de manera conjunta.
 
