@@ -26,7 +26,7 @@ El nom està aconseguit arran d'una hibridació de dos conceptes, "*Net*" és l'
 
 ### Què té Netflix per considerar-lo un mitjà d'hibridació?  
   
-*Netflix* esdevé un mix entre el cine, internet i la televisió, això és degut al fet que des de l'any 2011 s'ha convertit en una plataforma que produeix les seves pròpies pel·lícules revolucionant la manera d'entendre la indústria cinematogràfica i la TV, sense entrades de cine i en alguns casos sense haver de tenir temps d'espera per poder visualitzar l'obra.  
+*Netflix* esdevé un mix entre el cine, internet i la televisió, això és degut al fet que des de l'any 2011 s'ha convertit en una plataforma que produeix les seves pròpies pel·lícules i sèries revolucionant la manera d'entendre la indústria cinematogràfica i la TV, competint i en molts casos aniquilant les famoses sales de cines, gràcies a què es pot gaudir de pel·lícules i sèries sense haver de comprar les entrades de cine i en molts casos sense haver de tenir temps d'espera per poder visualitzar l'obra.  
 
 ![43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en](https://user-images.githubusercontent.com/104514520/167248293-d06bf386-23cd-4ed7-8ff8-539aa416ee8c.png)
   
