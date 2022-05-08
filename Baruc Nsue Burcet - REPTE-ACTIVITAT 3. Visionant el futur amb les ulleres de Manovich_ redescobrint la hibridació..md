@@ -82,6 +82,8 @@ Tot això, comporta que l'usuari pugui combinar estones d'acció on ell té el c
 
 Cada cop més videojocs han optat per passar-se al cine, o a l'inrevés, de la gran pantalla al videojoc i en aquest cas, Assassin's Creed també va optar per aquesta modalitat. Aquesta tècnica també serveix als productors per traslladar els clients d'un gènere a un altre, és a dir, veient la pel·lícula, molta gent tindrà ganes de jugar al videojoc i al contrari, a la gent que els hi agrada jugar al videojoc, segurament acabaran per anar al cine a mirar la pel·lícula.
 
+https://www.youtube.com/watch?v=uNOnq5YaNxg
+
 Per altra banda, Ubisoft, la companyia creadora del videojoc, també es va llançar amb un altre tipus d'hibridació on cohexisteixen dos models, per una banda, un model és el joc com a producte i l'altre model és el joc entenent-lo com un servei. Existeixen molts altres jocs que també ho fan i ho han fet (*Assassin's Creed, GTA , Red Dead Redemption 2, The Last of Us I i II,* etc...) tots aquests videojocs, a part de combinar també la hibridació del joc amb el cine i internet, també han passat a distribuir el joc d'una manera immediata on en aquest supòsit no és necessària la connexió a internet (joc com a producte) o bé, pagant una quota mensual o anual per obtenir diferents modalitats del mateix joc, DLC (joc com a servei).
 
 Dit tot l'anterior, veiem que hi ha molts videojocs que no els podem encasellar en només jocs perquè absorbeixen tècniques pròpies d'altres mitjans, en aquest cas, els jocs i el cine, les escenes d'acció i les escenes cinemàtiques pròpies del cine, on el jugador passa a ser un espectador de luxe. 
