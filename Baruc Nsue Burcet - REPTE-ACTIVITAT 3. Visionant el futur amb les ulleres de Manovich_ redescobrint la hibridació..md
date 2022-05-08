@@ -64,7 +64,8 @@ La llista és
 - *Assassin's Creed: Brotherhood (2010)*
 - *Assassin's Creed: Revelations (2011)*
 - *Assassin's Creed III (2012)*
-- *Assassin's Creed IV: Black Flag (2013)*              
+- *Assassin's Creed IV: Black Flag (2013)*                        ![Assassin's_Creed](https://user-images.githubusercontent.com/104514520/167285220-d2b7253e-ff67-4b71-aa8c-da52125d5b40.jpeg)
+              
 - *Assassin's Creed: Rogue (2014)*
 - *Assassin's Creed: Unity (2014)*
 - *Assassin's Creed: Syndicate (2015)*
