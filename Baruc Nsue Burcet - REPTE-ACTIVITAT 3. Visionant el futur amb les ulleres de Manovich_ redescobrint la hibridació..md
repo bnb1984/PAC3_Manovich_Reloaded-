@@ -64,8 +64,7 @@ La llista és
 - *Assassin's Creed: Brotherhood (2010)*
 - *Assassin's Creed: Revelations (2011)*
 - *Assassin's Creed III (2012)*
-- *Assassin's Creed IV: Black Flag (2013)*                        ![Assassin's_Creed](https://user-images.githubusercontent.com/104514520/167285220-d2b7253e-ff67-4b71-aa8c-da52125d5b40.jpeg)
-              
+- *Assassin's Creed IV: Black Flag (2013)*                        
 - *Assassin's Creed: Rogue (2014)*
 - *Assassin's Creed: Unity (2014)*
 - *Assassin's Creed: Syndicate (2015)*
@@ -73,7 +72,9 @@ La llista és
 - *Assassin's Creed: Odyssey (2018)*
 - *Assassin's Creed: Valhalla (2020*
 
-En aquest cas, en tractar-se d'un videojoc segurament és menys conegut que *Netflix*, això no obstant, també és un exemple d'hibridació, ja que utilitza el cine, internet i el videojoc com a diferents tècniques però les utilitza de manera conjunta.
+![Assassin's_Creed](https://user-images.githubusercontent.com/104514520/167285220-d2b7253e-ff67-4b71-aa8c-da52125d5b40.jpeg)
+
+En aquest cas, en tractar-se d'un videojoc segurament és menys conegut que *Netflix*, no obstant, també és un exemple d'hibridació, ja que utilitza el cine, internet i el videojoc com a diferents tècniques però les utilitza de manera conjunta.
 
 Si en algun moment heu tingut l'oportunitat de poder jugar a qualsevol joc d'*Assassin's Creed*, veiem que el joc combina narrativa amb cinemàtiques més properes al cine amb les “[cut-scenes](https://www.youtube.com/watch?v=aLSRQpH7ikg)”. El joc segueix un argument (guió), els protagonistes han estat creats amb ordinadors en alguns cops i en altres per actors reals i els seus moviments després s'han traslladat al PC (CGI) amb la intenció de crear uns gràfics realistes i dotar al consumidor d'una experiència immersiva i amb un nivell de realisme molt elevat.
 
@@ -93,7 +94,7 @@ Dit tot l'anterior, veiem que hi ha molts videojocs que no els podem encasellar 
 
 - [https://www.academia.edu/2078531/Formatos_y_estrategias_narrativas_h%C3%ADbridas_el_cine_y_la_escena_cinem%C3%A1tica_cut_scenes_en_los_videojuegos_Interdependencias_m%C3%BAltiples_en_la_era_digital](https://www.academia.edu/2078531/Formatos_y_estrategias_narrativas_h%C3%ADbridas_el_cine_y_la_escena_cinem%C3%A1tica_cut_scenes_en_los_videojuegos_Interdependencias_m%C3%BAltiples_en_la_era_digital)
 - https://commons.wikimedia.org/wiki/File:Assassins_creed_logo.png
-
+- https://en.wikipedia.org/wiki/Assassin%27s_Creed_(video_game)
 
 ## CULTURA DIGITAL
 
